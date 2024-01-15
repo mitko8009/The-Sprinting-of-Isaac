@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>[AB+/REP] Sprint Mod</name>
+    <directory>sprintmod</directory>
+    <id>3000002796</id>
+    <description>[h1]Sprint Mod by mitko8009[/h1]
+[b]Simple Sprinting Mod for The Binding of Isaac: Repentance[/b]
+The mod uses ModConfigMenu for some essential settings. The ModConfigMenu can be opened by pressing &quot;L&quot; on your keyboard. If you have issues with the mod, feel free to open a discussion or write a comment about it.
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2681875787][b]This mod requires to install the ModConfigMenu mod[/b][/url]
+
+[quote=mitko8009]If someone wants to contribute to the project, please DM me on Discord or Instagram.[/quote]
+
+[hr][/hr]
+[b]By: mitko8009[/b]
+Instagram: [url=https://www.instagram.com/mitko8009_/]@mitko8009_[/url]
+Discord: [b]mitko8009[/b]
+For bugs, create a new discussion on the mod page.</description>
+    <version>1.10</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Tweaks"/>
+    <tag id="Graphics"/>
+</metadata>
